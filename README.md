@@ -1,7 +1,7 @@
 # Magrank_v1
 Codes for ranking magzine paper
 
-# RReducing Training Complexity of Learning Wireless Resource Allocation with Permutation Equivariant Prior Knowledge
+# Reducing Training Complexity of Learning Wireless Resource Allocation with Permutation Equivariant Prior Knowledge
 Python codes to reproduce our works. 
 
 Generate_data.m (Matlab code) is used to generate data. 
